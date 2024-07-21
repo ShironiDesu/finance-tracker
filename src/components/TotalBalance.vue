@@ -36,7 +36,7 @@ export default {
       }
 
       return {
-        labels: ["Total Income", "Total Spend"],
+        labels: ["Общий доход", "Общий расход"],
         datasets: [
           {
             backgroundColor: backgroundColor,
